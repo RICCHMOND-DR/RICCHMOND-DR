@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RICCHMOND-DR
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning Javascripy
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me; rnduodu88@gmail.com/0545713677
 
